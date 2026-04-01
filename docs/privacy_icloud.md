@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Privacy Policy iCloud
 ---
 *Last updated: March 11, 2026*
 
