@@ -14,7 +14,7 @@ All data is stored locally on your device using Apple's built-in data framework.
 
 ## No Data Collection
 
-This application does not collect any data, including but not limited to:
+This app does not collect any data, including but not limited to:
 
 - Personal information (name, email, phone number)
 - Location data
@@ -24,15 +24,15 @@ This application does not collect any data, including but not limited to:
 
 ## No Third-Party Services
 
-The application does not integrate any third-party SDKs, analytics tools, advertising networks, or cloud services. It is built entirely with Apple's native frameworks.
+The app does not integrate any third-party SDKs, analytics tools, advertising networks, or cloud services. It is built entirely with Apple's native frameworks.
 
 ## No Network Communication
 
-This application does not connect to the internet. The app functions entirely offline and makes no network requests of any kind.
+This app does not connect to the internet. The app functions entirely offline and makes no network requests of any kind.
 
 ## No Tracking
 
-The application does not track you across apps or websites. It does not use Apple's App Tracking Transparency framework because there is nothing to track.
+The app does not track you across apps or websites. It does not use Apple's App Tracking Transparency framework because there is nothing to track.
 
 ## Data Deletion
 
@@ -40,7 +40,7 @@ Since all data is stored locally on your device, you can delete it at any time b
 
 ## Children's Privacy
 
-This application does not collect any data from anyone, including children. The app is safe for users of all ages.
+This app does not collect any data from anyone, including children. The app is safe for users of all ages.
 
 ## Changes to This Policy
 
